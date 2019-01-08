@@ -1,0 +1,18 @@
+.title{
+  position: absolute;
+  left: 5%;
+  top: 30%;
+  color: #464C90;
+  font-family: 'Avenir Next';
+    width:15%;
+
+}
+.form{
+     position: absolute;
+  left: 5%;
+  top: 34%;
+  color: #464C90;
+    width:15%; 
+    height:5%;
+
+}

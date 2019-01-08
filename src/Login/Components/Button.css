@@ -1,0 +1,20 @@
+/*button */
+.whole{
+position: absolute;
+  top: 75%;
+  left: 5%;
+  
+  
+}
+.button{
+    color: white;
+  border-radius:30px;
+  background: #464C90;
+    width:450%;
+    height: 40px;
+    
+  
+}
+button:hover{
+  background: linear-gradient(#393c79,#442772);
+}
